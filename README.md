@@ -1,12 +1,7 @@
 # RAY
 
-**Nombre:** José Daniel.  
-**Apellidos:** Chinea Marrero.  
-**Fecha de nacimiento:** 15/02/1999.  
+**Nombre:** huan tanahusu
+**Apellidos:** Hernandez Ramos
+**Fecha de nacimiento:** 6/03/1999.  
 
 Práctica de RAY, realización de proyectos multimedia.
-
-Ejercicios:
-***********
-
-[Ejercicio001](Ejercicio001.md)

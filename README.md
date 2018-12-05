@@ -1,6 +1,6 @@
 # RAY
 
-**Nombre:** huan tanahusu
+**Nombre:** juan tanahusu
 **Apellidos:** Hernandez Ramos
 **Fecha de nacimiento:** 6/03/1999.  
 
